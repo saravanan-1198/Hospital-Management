@@ -4,12 +4,3 @@ Initally each individual Patient shoud Signup and mention their contact detials 
 Every Doctor should Signup with what their are specialized in.To see thier Schedule login their emailid and password .
 
 
-The Project is under Construction.
-
-Feedback is welcome
-Contact Details
-S.Saravanan
-SASTRA Deemed to be University 
-Phone Number:8015309329
-Email ID: saravanansatish98@gmail.com 
-Area of My Interest : WEB Development.
